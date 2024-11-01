@@ -13,6 +13,9 @@ M.sections = {
       end
     end,
   },
+  lualine_b = {
+      "branch",
+  },
 }
 
 M.filetypes = { 'oil' }
